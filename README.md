@@ -25,7 +25,7 @@ my-tv/
 
 ## GitHub Actions 定时任务
 
-项目已经配置了 GitHub Actions 工作流（`.github/workflows/schedule_run.yml`），它会每天 UTC 时间的 00:00 和 12:00 自动运行脚本抓取最新的直播源，并将结果推送到仓库。
+项目已经配置了 GitHub Actions 工作流（`.github/workflows/schedule_run.yml`），它会每小时自动运行脚本抓取最新的直播源，并将结果推送到仓库。
 
 ### **法律声明**
 
