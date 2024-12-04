@@ -77,11 +77,11 @@ def load_ext_url():
             ret += check_all_url(content)
 
     for line in ret.split("\n"):
-        with open("live.txt", "a") as f:
+        with open("latest_streams.txt", "a") as f:
             f.write("\n" + line)
 
     m3u_txt = convert_to_m3u(ret)
-    with open("live.m3u", "w") as f:
+    with open("latest_streams.m3u", "w") as f:
         f.write(m3u_txt)
 
     print("状态: over")
