@@ -13,6 +13,7 @@ urls = [
     "https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
     'https://raw.githubusercontent.com/BurningC4/Chinese-IPTV/master/TV-IPV4.m3u',
     "https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/IPV6.m3u",
+    "https://live.zbds.top/tv/iptv6.txt",
 ]
 
 # 区分IPv4和IPv6的正则表达式
