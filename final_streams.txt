@@ -4402,7 +4402,6 @@ CN卡通,http://125.227.210.55:8167/VideoInput/play.ts
 DW News,http://37.27.111.214:8080/live/46/hls.m3u8
 ELEVEN1,http://211.72.65.236:8566/.m3u8
 ELEVEN2,http://211.72.65.236:8567/.m3u8
-J2,http://50.7.234.10:8278/j2_twn/playlist.m3u8?tid=MFCF3274854132748541&ct=19254&tsum=699466c18aac56202ad1d2843fd21032
 MTV欣赏,http://37.27.111.214:8080/live/25/hls.m3u8
 Nick动画1,http://37.27.111.214:8080/live/12/hls.m3u8
 Nick动画2,http://37.27.111.214:8080/live/22/hls.m3u8
@@ -12323,8 +12322,10 @@ CCTV-12 社会与法,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.c
 CCTV-13 新闻,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
 CCTV-14 少儿,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
 CCTV-15 音乐,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226476/index.m3u8
+CCTV-16 奥林匹克,http://[2409:8087:1a01:df::4077]:80/PLTV/88888888/224/3221225893/index.m3u8
 CCTV-17 农业农村,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 CCTV-2 财经,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
+CCTV-3 综艺,http://[2409:8087:1a01:df::4077]:80/PLTV/88888888/224/3221225799/index.m3u8
 CCTV-4 中文国际,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
 CCTV-5 体育,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
 CCTV-5+ 体育赛事,http://[2409:8087:1a01:df::4077]:80/PLTV/88888888/224/3221225507/index.m3u8
@@ -13836,9 +13837,7 @@ NewTV精品大剧,http://[2409:8087:5e08:24::11]:6610/000000001000/1000000004000
 NewTV精品大剧,http://[2409:8087:1a0a:df::4016]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8
 NewTV精品纪录,http://[2409:8087:74d9:21::6]:80/270000001128/9900000109/index.m3u8
 NewTV精品纪录,http://[2409:8087:5e08:24::11]:6610/000000001000/1000000004000013730/1.m3u8?channel-id=ystenlive&Contentid=1000000004000013730&livemode=1&stbId=3
-NewTV精品纪录,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000109/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000349
 NewTV精品综合,http://[2409:8087:5e08:24::11]:6610/000000001000/1000000004000019008/1.m3u8?channel-id=ystenlive&Contentid=1000000004000019008&livemode=1&stbId=3
-NewTV精品综合,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000116/index.m3u8?
 NewTV精品萌宠,http://[2409:8087:74d9:21::6]:80/270000001128/9900000122/index.m3u8
 NewTV精品萌宠,http://[2409:8087:5e08:24::11]:6610/000000001000/1000000006000032328/1.m3u8?channel-id=ystenlive&Contentid=1000000006000032328&livemode=1&stbId=3
 NewTV精品萌宠,http://[2409:8087:1a0a:df::4016]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226505/index.m3u8
@@ -16258,8 +16257,6 @@ tvgid爱动漫tvgnameiHOT爱动漫tvglogohttpsgiteecomsuxuangepglogorawmasterIHO
 睛彩篮球,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000006000270002/1.m3u8
 睛彩篮球,http://[2409:8087:74d9:21::6]:80/270000001128/9900000118/index.m3u8
 睛彩青少,http://[2409:8087:74d9:21::6]:80/270000001128/9900000120/index.m3u8
-睛彩青少,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000120/index.m3u8?channelid=newtv&livemode=4&Contentid=9900000264
-福建东南卫视,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000519/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000550
 第一财经,http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/3221226172/index.m3u8
 第一财经,http://[2409:8087:5e01:24::16]:6610/000000001000/2000000002000000004/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000004&IASHttpSessionId=OTT19019320240419154124000281
 第一财经,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000004/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000004&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
