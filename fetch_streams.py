@@ -18,9 +18,6 @@ urls = [
     "https://raw.githubusercontent.com/zwc456baby/iptv_alive/master/live.txt"
 ]
 
-# 区分IPv4和IPv6的正则表达式
-ipv4_pattern = re.compile(r'^http://(\d{1,3}\.){3}\d{1,3}')
-ipv6_pattern = re.compile(r'^http://\[([a-fA-F0-9:]+)\]')
 
 
 # 提示信息和容错处理
@@ -129,7 +126,7 @@ def save_to_txt(grouped_streams, filename="final_streams.txt"):
             streams = row['program_name']  # 获取节目名称
             urls = row['stream_url']  # 获取流地址
 
-            output_file.write(f"{channel_type},#genre#\n")
+            output_file.write(f"{channel_type}by宇航,#genre#\n")
             for program, stream in zip(streams, urls):
                 output_file.write(f"{program},{stream}\n")
 
