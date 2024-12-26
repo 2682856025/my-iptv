@@ -22,6 +22,7 @@ urls = [
 ipv4_pattern = re.compile(r'^http://(\d{1,3}\.){3}\d{1,3}')
 ipv6_pattern = re.compile(r'^http://\[([a-fA-F0-9:]+)\]')
 
+
 # 提示信息和容错处理
 def fetch_streams_from_url(url):
     print(f"正在爬取网站源: {url}")
@@ -39,6 +40,7 @@ def fetch_streams_from_url(url):
         print(f"请求 {url} 时发生错误: {e}")
         return None
 
+
 # 获取所有源，并处理错误
 def fetch_all_streams():
     all_streams = []
@@ -49,6 +51,7 @@ def fetch_all_streams():
         else:
             print(f"跳过来源: {url}")
     return "\n".join(all_streams)
+
 
 # 处理M3U文件的内容
 def parse_m3u(content):
@@ -69,6 +72,7 @@ def parse_m3u(content):
 
     return streams
 
+
 # 处理普通TXT格式的内容
 def parse_txt(content):
     lines = content.splitlines()
@@ -83,6 +87,17 @@ def parse_txt(content):
 
     return streams
 
+
+def categorize_channels(program_name):
+    """根据节目名称分类频道类型"""
+    if "卫视" in program_name:
+        return "卫视频道"
+    elif "CCTV" in program_name:
+        return "央视频道"
+    else:
+        return "其他频道"
+
+
 def organize_streams(content):
     # 检查是否是 M3U 格式并解析
     if content.startswith("#EXTM3U"):
@@ -94,33 +109,32 @@ def organize_streams(content):
     # 使用 pandas 整理相同节目的源，并去除重复链接
     df = pd.DataFrame(streams)
     df = df.drop_duplicates(subset=['program_name', 'stream_url'])  # 删除重复的节目和链接
-    grouped = df.groupby('program_name')['stream_url'].apply(list).reset_index()
+
+    # 添加频道分类列
+    df['channel_type'] = df['program_name'].apply(categorize_channels)
+
+    # 按频道类型分组
+    grouped = df.groupby('channel_type').agg(list).reset_index()
 
     return grouped
+
 
 def save_to_txt(grouped_streams, filename="final_streams.txt"):
     filepath = os.path.join(os.getcwd(), filename)  # 使用绝对路径
     print(f"保存文件的路径是: {filepath}")  # 输出文件保存路径
-    ipv4_lines = []
-    ipv6_lines = []
-
-    for _, row in grouped_streams.iterrows():
-        program_name = row['program_name']
-        stream_urls = row['stream_url']
-
-        for url in stream_urls:
-            if ipv4_pattern.match(url):
-                ipv4_lines.append(f"{program_name},{url}")
-            elif ipv6_pattern.match(url):
-                ipv6_lines.append(f"{program_name},{url}")
 
     with open(filepath, 'w', encoding='utf-8') as output_file:
-        output_file.write("# IPv4 Streams\n")
-        output_file.write("\n".join(ipv4_lines))
-        output_file.write("\n\n# IPv6 Streams\n")
-        output_file.write("\n".join(ipv6_lines))
+        for _, row in grouped_streams.iterrows():
+            channel_type = row['channel_type']
+            streams = row['program_name']  # 获取节目名称
+            urls = row['stream_url']  # 获取流地址
+
+            output_file.write(f"{channel_type},#genre#\n")
+            for program, stream in zip(streams, urls):
+                output_file.write(f"{program},{stream}\n")
 
     print(f"所有源已保存到 {filepath}")
+
 
 if __name__ == "__main__":
     print("开始抓取所有源...")
