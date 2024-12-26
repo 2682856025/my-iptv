@@ -1,4 +1,4 @@
-其他频道,#genre#
+其他频道by宇航,#genre#
 20241226 09:13:38,https://gitee.com/kabigo/tv/raw/master/assets/about1080p.mp4
 关于本源(iptv365.org),https://gitlab.com/p2v5/wangtv/-/raw/main/about1080p.mp4
 每日一首,http://em.21dtv.com/songs/60037364.mkv
@@ -7609,7 +7609,7 @@ CGTN外语记录频道,http://1c2760.tv.netsite.cc/proxy/634350026/634350026.m3u
 亚洲中文,http://1c2760.tv.netsite.cc/proxy/847703940/847703940.m3u8
 大立電視台,https://tvbox.nat.netsite.cc:8043/proxy/1485397580/1485397580.m3u8
 大立電視台,http://1c2760.tv.netsite.cc/proxy/1485397580/1485397580.m3u8
-卫视频道,#genre#
+卫视频道by宇航,#genre#
 东方卫视,http://223.105.252.8/PLTV/4/224/3221227688/index.m3u8
 东方卫视,http://223.105.252.8/PLTV/4/224/3221228150/index.m3u8
 浙江卫视,http://223.105.252.8/PLTV/4/224/3221228147/index.m3u8
@@ -18458,7 +18458,7 @@ CGTN外语记录频道,http://1c2760.tv.netsite.cc/proxy/634350026/634350026.m3u
 吉林卫视高清,http://1c2760.tv.netsite.cc/proxy/1218816360/1218816360.m3u8
 吉林延边卫视,https://tvbox.nat.netsite.cc:8043/proxy/454807708/454807708.m3u8
 吉林延边卫视,http://1c2760.tv.netsite.cc/proxy/454807708/454807708.m3u8
-央视频道,#genre#
+央视频道by宇航,#genre#
 CCTV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 CCTV2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
 CCTV3,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
