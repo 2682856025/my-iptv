@@ -531,9 +531,8 @@ CHC动作电影,http://58.19.38.162:9901/tsfile/live/1012_1.m3u8
 1905电影网,http://php.jdshipin.com:8880/1905.php?id=1905dy
 漫威电影,http://jiaojirentv.top/2020/dy.php?id=6140589
 豆瓣电影,http://jiaojirentv.top/2020/dy.php?id=8770422
-淘剧场,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226553/1.m3u8?&accountinfo=%7E%7EV2.0%7EQaJ92NID2SpQlY6_VJVogg%7EQ8NsqL2Ii48SUgC4QMl6hh6MtnXuZ2CwNhT-dTFoMLL2G3Q2BYmATYXRv1nKmDi5C1jJAt50zoNF4cIM-01_7rCa0ZemjVk37nsYr4Zr0bk%7EExtInfo9bj61dxzlMXrsixrqcFYPg%2CEND&GuardEncType=2
 淘电影,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8?accountinfo=%7E%7EV2.0%7EXOsrWMA-UCdUl1hQSR9EKw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND&GuardEncType=2
-峨眉电影,http://wouu.net:9977/udp/239.93.0.252:5140
+淘剧场,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226553/1.m3u8?&accountinfo=%7E%7EV2.0%7EQaJ92NID2SpQlY6_VJVogg%7EQ8NsqL2Ii48SUgC4QMl6hh6MtnXuZ2CwNhT-dTFoMLL2G3Q2BYmATYXRv1nKmDi5C1jJAt50zoNF4cIM-01_7rCa0ZemjVk37nsYr4Zr0bk%7EExtInfo9bj61dxzlMXrsixrqcFYPg%2CEND&GuardEncType=2
 精彩影视,http://[2409:8087:5e08:24::17]:6610/000000001000/2000000004000000063/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000063&IASHttpSessionId=OTT19019320240419154124000281
 新视觉,http://120.76.248.139/live/bfgd/4200000249.m3u8
 纪实科教,http://[2409:8087:5e08:24::17]:6610/000000001000/1000000001000001910/index.m3u8?channel-id=ystenlive&Contentid=1000000001000001910&livemode=1&stbId=YanG-1989
@@ -615,7 +614,6 @@ CAT电影,http://litv.zapi.us.kg/?id=4gtv-4gtv076
 数位电影,http://litv.zapi.us.kg/?id=4gtv-4gtv011
 龙华电影,http://37.27.111.214:8080/live/19/hls.m3u8
 靖天电影,http://litv.zapi.us.kg/?id=4gtv-4gtv061
-亚洲影院,http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=5841816227539527643
 惊悚电影,http://ali.hlspull.yximgs.com/live/92ebd2b6ea20fab0e4b56fbb4ab8b5cb.flv
 美亚电影,http://ali.hlspull.yximgs.com/live/a5b1cad2ce82d2ce99ca6662785446d1.flv
 龍祥电影,http://ali.hlspull.yximgs.com/live/62cde5be2b387b5d597a671c341e31a5.flv
@@ -891,6 +889,7 @@ newtv怡伴健康,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225673/
 湖南娱乐,http://222.241.154.37:9901/tsfile/live/23023_1.m3u8
 湖南教育台,http://222.241.154.37:9901/tsfile/live/23027_1.m3u8
 四川新闻,http://wouu.net:9977/udp/239.93.0.47:5140
+峨眉电影,http://wouu.net:9977/udp/239.93.0.252:5140
 四川影视文艺,http://wouu.net:9977/udp/239.93.0.166:5140
 四川经济,http://wouu.net:9977/udp/239.93.1.101:5140
 四川文化旅游,http://wouu.net:9977/udp/239.93.1.102:5140
