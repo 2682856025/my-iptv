@@ -1474,6 +1474,7 @@ CGTN外语记录频道,http://a21709.tv.netsite.cc/proxy/634350026/634350026.m3u
 上海第一财经,http://a21709.tv.netsite.cc/proxy/1946402424/1946402424.m3u8
 上海纪实人文,http://a21709.tv.netsite.cc/proxy/1975883896/1975883896.m3u8
 上海都市频道,http://a21709.tv.netsite.cc/proxy/2116818558/2116818558.m3u8
+上海哈哈炫动,http://a21709.tv.netsite.cc/proxy/1655047572/1655047572.m3u8
 上海点掌财经,http://a21709.tv.netsite.cc/proxy/1577752441/1577752441.m3u8
 浙江钱江都市,http://a21709.tv.netsite.cc/proxy/2044904392/2044904392.m3u8
 浙江经济生活,http://a21709.tv.netsite.cc/proxy/1529435983/1529435983.m3u8
@@ -4431,6 +4432,7 @@ CCTV第一剧场,http://[2409:8087:7008:20::c]:80/dbiptv.sn.chinamobile.com/PLTV
 CCTV风云足球,http://[2409:8087:7008:20::c]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226984/index.m3u8
 CCTV-1 综合,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
 CCTV-2 财经,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
+CCTV-3 综艺,http://[2409:8087:1a01:df::4077]:80/PLTV/88888888/224/3221225799/index.m3u8
 CCTV-4 中文国际,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
 CCTV-5 体育,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
 CCTV-5+ 体育赛事,http://[2409:8087:1a01:df::4077]:80/PLTV/88888888/224/3221225507/index.m3u8
@@ -4444,6 +4446,7 @@ CCTV-12 社会与法,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.c
 CCTV-13 新闻,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
 CCTV-14 少儿,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
 CCTV-15 音乐,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226476/index.m3u8
+CCTV-16 奥林匹克,http://[2409:8087:1a01:df::4077]:80/PLTV/88888888/224/3221225893/index.m3u8
 CCTV-17 农业农村,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 CCTV-4K 超高清,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
 CCTV-8K 超高清,https://tv.cry33.com/ys4k.php?id=8k
@@ -4464,3 +4467,4 @@ CCTV-14,http://a21709.tv.netsite.cc/proxy/512439688/512439688.m3u8
 CCTV-15,http://a21709.tv.netsite.cc/proxy/323678478/323678478.m3u8
 CCTV-16,http://a21709.tv.netsite.cc/proxy/2055404079/2055404079.m3u8
 CCTV-17,http://a21709.tv.netsite.cc/proxy/199561397/199561397.m3u8
+CCTV-1,http://a21709.tv.netsite.cc/proxy/1464748337/1464748337.m3u8
