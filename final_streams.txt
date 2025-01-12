@@ -3620,7 +3620,6 @@ CGTN外语记录频道,http://a21709.tv.netsite.cc/proxy/634350026/634350026.m3u
 延边卫视,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226516/index.m3u8
 安多卫视,http://[2409:8087:1a0b:df::4007]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225659/index.m3u8
 康巴卫视,http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225660/index.m3u8
-香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 山西卫视,http://liveflash.sxrtv.com/live/sxwshd.m3u8?sub_m3u8=true&edge_slice=true
 凤凰卫视,http://a21709.tv.netsite.cc/proxy/1650326537/1650326537.m3u8
 北京卫视,http://a21709.tv.netsite.cc/proxy/1773564112/1773564112.m3u8
