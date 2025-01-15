@@ -18,7 +18,6 @@ urls = [
     "https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt",
     "https://live.fanmingming.cn/tv/m3u/ipv6.m3u",
     "http://aktv.top/live.m3u",
-    "https://tv.iill.top/m3u/Gather",
     "https://raw.githubusercontent.com/joevess/IPTV/main/m3u/iptv.m3u",
     "https://m3u.ibert.me/fmml_ipv6.m3u",
     "https://iptv-org.github.io/iptv/index.m3u",
