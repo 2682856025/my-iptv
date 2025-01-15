@@ -15,7 +15,19 @@ urls = [
     "https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u",
     "https://iptv-org.github.io/iptv/index.m3u",
     "https://raw.githubusercontent.com/zwc456baby/iptv_alive/master/live.txt",
-    "https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt"
+    "https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt",
+    "https://live.fanmingming.cn/tv/m3u/ipv6.m3u",
+    "http://aktv.top/live.m3u",
+    "https://tv.iill.top/m3u/Gather",
+    "https://raw.githubusercontent.com/joevess/IPTV/main/m3u/iptv.m3u",
+    "https://m3u.ibert.me/fmml_ipv6.m3u",
+    "https://iptv-org.github.io/iptv/index.m3u",
+    "https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.txt",
+    "https://raw.githubusercontent.com/jisoypub/iptv/refs/heads/main/ipv4_2.m3u",
+    "https://raw.githubusercontent.com/hujingguang/ChinaIPTV/main/cnTV_AutoUpdate.m3u8",
+    "https://raw.githubusercontent.com/cuikaipeng/IPTV/refs/heads/main/IPTV.m3u",
+    "https://gh-proxy.com/https://raw.githubusercontent.com/big-mouth-cn/tv/main/iptv-ok.m3u"
+    
 ]
 
 
