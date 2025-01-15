@@ -5,7 +5,6 @@ import os
 
 # 多个网站 URL 列表
 urls = [
-    "https://ghproxy.net/https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt",
     "http://175.178.251.183:6689/live.txt",
     "https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u",
     "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/APTV.m3u",
