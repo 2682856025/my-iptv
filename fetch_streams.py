@@ -14,7 +14,8 @@ urls = [
     "https://live.zbds.top/tv/iptv6.txt",
     "https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u",
     "https://iptv-org.github.io/iptv/index.m3u",
-    "https://raw.githubusercontent.com/zwc456baby/iptv_alive/master/live.txt"
+    "https://raw.githubusercontent.com/zwc456baby/iptv_alive/master/live.txt",
+    "https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt"
 ]
 
 
