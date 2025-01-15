@@ -34,7 +34,8 @@ urls = [
     "https://raw.githubusercontent.com/vicjl/myIPTV/refs/heads/main/IPTV-f-v6.m3u",
     "https://raw.githubusercontent.com/vicjl/myIPTV/refs/heads/main/IPTV-all.m3u",
     "https://raw.githubusercontent.com/Wirili/IPTV/refs/heads/main/live.txt",
-    "https://m3u.ibert.me/txt/fmml_ipv6.txt"
+    "https://m3u.ibert.me/txt/fmml_ipv6.txt",
+    "https://raw.githubusercontent.com/vbskycn/iptv/master/tv/hd.txt"
     
 ]
 
