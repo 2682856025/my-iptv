@@ -5,7 +5,7 @@ import os
 
 # 多个网站 URL 列表
 urls = [
-    "https://ghproxy.cc/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.txt",
+    "https://live.zbds.top/tv/iptv4.m3u",
     "https://live.zbds.top/tv/iptv6.m3u"
 ]
 
